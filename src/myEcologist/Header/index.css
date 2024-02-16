@@ -1,0 +1,48 @@
+nav.wd-header {
+  background-color: #082963;
+}
+
+nav.wd-header .nav-link a {
+  color: white;
+}
+
+nav.wd-header .nav-item .nav-link {
+  color: white;
+  text-decoration: none;
+}
+
+/* nav.wd-header ul.dropdown-menu .dropdown-item {
+    color: white;
+    background-color: #082963;
+} */
+
+/* nav.wd-header ul.dropdown-menu hr.dropdown-divider {
+    border-color: rgba(213, 213, 213, 0.5);
+} */
+
+/* nav.wd-header ul.dropdown-menu  {
+    background-color: #082963;
+    border: none;
+} */
+
+nav.wd-header .nav-item .nav-link.active {
+  font-weight: bold;
+  color: white;
+}
+
+.wd-header button.navbar-toggler {
+  border: none;
+  box-shadow: none;
+}
+
+.wd-header button.wd-icon {
+  color: white;
+}
+
+.remove-link a {
+  text-decoration: none;
+}
+
+.remove-link a:hover {
+  text-decoration: underline;
+}

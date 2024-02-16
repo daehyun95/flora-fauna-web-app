@@ -1,0 +1,10 @@
+.wd-footer {
+    background-color: #d5d5d5;
+    margin: 0px;
+    padding: 20px;
+}
+
+.wd-footer p a{
+    text-decoration: none;
+    color: #082963;
+}

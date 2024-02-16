@@ -1,0 +1,9 @@
+.wd-how-it-works div.count {
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}

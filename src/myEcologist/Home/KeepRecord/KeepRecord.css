@@ -1,0 +1,19 @@
+.wd-keep-record {
+    background-color: #082963;
+}
+
+.wd-keep-record img.natureResponsive {
+    width: 100%;
+    padding: 0;
+    height: 100;
+    object-fit: cover;
+}
+
+.wd-keep-record p.icon-and-text {
+    color: #d5d5d5;
+    padding-left: 30px;
+    justify-content: center;
+    align-content: center;
+}
+
+

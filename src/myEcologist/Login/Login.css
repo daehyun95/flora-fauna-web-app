@@ -1,0 +1,56 @@
+/* Common Styles for Both Pages */
+.background-color-left {
+  background-color: #e0e9f8;
+}
+
+.company-logo {
+  margin: 10px auto;
+  background-color: #082963;
+  height: 100%;
+  width: fit-content;
+  object-fit: contain;
+  padding: 20px;
+  border-radius: 100px;
+}
+
+.login-display-image {
+  width: 100%;
+  object-fit: cover;
+}
+
+.form-submit-button {
+  width: 75%;
+  margin: 0 auto;
+  border: 2px solid gray !important;
+  border-radius: 25px;
+  color: #082963 !important;
+  background-color: white !important;
+}
+
+/* Adjusted Form Styles */
+.login-form,
+.signup-form {
+  text-align: center;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.forgot-password-link,
+.signup-link {
+  display: block;
+  color: #082963 !important;
+  text-decoration: none;
+  margin-bottom: 15px;
+}
+
+.forgot-password-link:hover,
+.signup-link:hover {
+  text-decoration: underline;
+}
+
+/* Custom width for form elements */
+@media (min-width: 768px) and (max-width: 991px) {
+  .custom-width {
+    width: 75% !important;
+  }
+}

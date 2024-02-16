@@ -1,0 +1,57 @@
+.wd-header {
+    background-color: #7e8084;
+    color: white;
+}
+
+.text-color-w {
+    color: white;
+}
+
+.custom-nav-link {
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+}
+
+.custom-nav-link.active {
+    background-color: #082963;
+}
+
+.wd-dashboard-grid .col {
+    width: 270px;
+    margin: 15px;
+}
+
+.custom-mx-0 {
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+
+.card-head {
+    height: 80%;
+    width: 100%;
+    position: absolute;
+}
+
+.card-body {
+    margin-top: 10px;
+    padding-top: 80%;
+    padding-left: 10px;
+}
+
+.pagination button.active {
+    background-color: rgb(76, 0, 255); /* Set the background color to red */
+    color: white; /* Set the text color to white, or your preferred color */
+}
+
+.pagination button {
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    border: 1px solid #ccc; /* Add a border for clarity */
+    margin: 2px; /* Add some spacing between buttons */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}

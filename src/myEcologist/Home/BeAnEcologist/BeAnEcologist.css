@@ -1,0 +1,20 @@
+.wd-be-an-ecologist {
+  background-color: #082963;
+}
+
+.wd-be-an-ecologist img.natureResponsive {
+    width: 100%;
+    padding: 0;
+    height: 100%;
+    object-fit: cover;
+}
+
+.wd-be-an-ecologist h4 {
+  color: #d5d5d5;
+  margin-bottom: 30px;
+}
+
+.wd-be-an-ecologist p {
+    color: #d5d5d5;
+    padding-right: 20px;
+}
